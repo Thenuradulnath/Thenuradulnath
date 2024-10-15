@@ -1,14 +1,7 @@
 # Hi 👋! It's Thenura Dulnath Kuruppuarachchi
-🌱 I’m currently learning [Your Field or Course Name] at [University Name].
+🌱 I’m a software enginnering student currrently studying in Swinburne Univercity Australia.
 
 ## 📊 GitHub Stats
-
-| **Total Stars Earned:** | 40   |
-|-------------------------|------|
-| **Total Commits:**      | 691  |
-| **Total PRs:**          | 0    |
-| **Total Issues:**       | 2    |
-| **Contributed (Last Year):** | 0 |
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thenuradulnath&show_icons=true&theme=radical)](https://github.com/Thenuradulnath)
 
