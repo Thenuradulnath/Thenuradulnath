@@ -1,4 +1,4 @@
-# Hi 👋! It's Thenura Dulnath Kuruppuarachchi
+# Hey👋! It's me.
 🌱 I’m a software enginnering student currrently studying in Swinburne Univercity Australia.
 
 ## 📊 GitHub Stats
